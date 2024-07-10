@@ -1,0 +1,95 @@
+{
+  "signInToContinue": "تسجيل الدخول للمتابعة",
+  "phoneNumber": "رقم الهاتف",
+  "enterYourPhoneNumber": "أدخل رقم هاتفك",
+  "password": "كلمة المرور",
+  "enterYourPassword": "أدخل كلمة المرور",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "signIn": "تسجيل الدخول",
+  "dontHaveAnAccount": "لا تمتلك حساباً؟",
+  "signUp": "إنشاء حساب",
+
+  "signUpToContinue": "إنشاء حساب للمتابعة",
+  "firstName": "الاسم الأول",
+  "pleaseEnterYourFirstName": "الرجاء إدخال اسمك الأول",
+  "lastName": "اسم العائلة",
+  "pleaseEnterYourLastName": "الرجاء إدخال اسم عائلتك",
+  "pleaseEnterYourPhoneNumber": "الرجاء إدخال رقم هاتفك",
+  "passwordMustBeAtLeast8Characters": "يجب أن تكون كلمة المرور على الأقل 8 أحرف",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "pleaseEnterAPassword": "الرجاء إدخال كلمة مرور",
+  "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+  "alreadyHaveAnAccount": "هل لديك حساب بالفعل؟",
+
+  "otpVerification": "التحقق من OTP",
+  "enterTheCodeSentToYourPhoneNumber": "أدخل الكود المرسل إلى رقم هاتفك",
+  "verify": "تحقق",
+  "didntReceiveTheCode": "لم تستلم الكود؟",
+  "resendCode": "إعادة إرسال الكود",
+
+  "home": "الرئيسية",
+  "treatments": "العلاجات",
+  "appointments": "المواعيد",
+  "about": "حول",
+
+  "hi": "مرحباً",
+  "welcome": "أهلاً بك",
+  "notifications": "الإشعارات",
+  "justNow": "الآن",
+  "oneMinuteAgo": "منذ دقيقة",
+  "minutesAgo": "دقائق مضت",
+  "oneHourAgo": "منذ ساعة",
+  "hoursAgo": "ساعات مضت",
+
+  "noNotificationsFound": "لا توجد إشعارات",
+  "upcomingAppointments": "المواعيد القادمة",
+
+  "upcoming": "قادم",
+
+  "lastUpdate": "آخر تحديث",
+
+  "done": "تم",
+
+  "upcomingReminders": "تذكيرات قادمة",
+  "appointmentTomorrow": "موعدك التالي غداً",
+  "nextAppointmentDate": "تاريخ الموعد التالي: ",
+  "updates": "التحديثات",
+  "ourServices": "خدماتنا",
+  "reminders": "التذكيرات",
+
+  "tipsSubTitle": "نصائحك",
+
+  "patientInformation": "معلومات المريض",
+  "name": "الاسم",
+
+  "bookAppointment": "حجز موعد",
+  "myHistory": "سجلي",
+
+  "tips": "نصائح",
+  "noTipsFound": "لم يتم العثور على نصائح",
+
+  "myAppointments": "مواعيدي",
+  "past": "الماضي",
+  "noPastAppointments": "لا توجد مواعيد سابقة",
+  "noUpcomingAppointments": "لا توجد مواعيد قادمة",
+  "noAppointmentsFound": "لم يتم العثور على مواعيد",
+  "myProfile": "ملفي الشخصي",
+  "changeLanguage": "تغيير اللغة إلى الإنجليزية",
+  "logout": "تسجيل الخروج",
+
+  "editProfile": "تعديل الملف الشخصي",
+  "email": "البريد الإلكتروني",
+  "birthdate": "تاريخ الميلاد",
+  "gender": "الجنس",
+  "yearsOld": "سنوات",
+  "pleaseEnterYourEmail": "الرجاء إدخال بريدك الإلكتروني",
+  "pleaseEnterYourBirthdate": "الرجاء إدخال تاريخ ميلادك",
+  "pleaseEnterYourGender": "الرجاء إدخال جنسك",
+  "selectGender": "اختر الجنس",
+  "female": "أنثى",
+  "male": "ذكر",
+  "noUpdate": "لا يوجد تحديث",
+  "save": "حفظ",
+
+  "noData": "لا توجد نتائج"
+}

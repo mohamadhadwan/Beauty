@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775290579811",
+    "project_id": "beautywider-7fd64",
+    "storage_bucket": "beautywider-7fd64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775290579811:android:442d8de155ff69e0994156",
+        "android_client_info": {
+          "package_name": "com.example.beauty_wider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVjiYip-sn4wnuU2ZRCiIEuP-eeiG5sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

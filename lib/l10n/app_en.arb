@@ -1,0 +1,95 @@
+{
+  "signInToContinue" :  "Sign in to continue",
+  "phoneNumber" : "Phone Number",
+  "enterYourPhoneNumber" : "Enter your phone number",
+  "password" : "Password",
+  "enterYourPassword" : "Enter your password",
+  "forgotPassword" : "Forgot Password",
+  "signIn" : "Sign In",
+  "dontHaveAnAccount": "Don't have an account?",
+  "signUp" : "Sign Up",
+
+  "signUpToContinue" : "Sign up to continue",
+  "firstName" : "First Name",
+  "pleaseEnterYourFirstName" : "Please enter your first name",
+  "lastName" : "Last Name",
+  "pleaseEnterYourLastName" : "Please enter your last name",
+  "pleaseEnterYourPhoneNumber" : "Please enter your number",
+  "passwordMustBeAtLeast8Characters" : "Password must be at least 8 characters",
+  "confirmPassword" : "Confirm Password",
+  "pleaseEnterAPassword" : " Please enter a password",
+  "passwordsDoNotMatch" : "Passwords do not match",
+  "alreadyHaveAnAccount" : "Already have an account?",
+
+  "otpVerification": "OTP Verification",
+  "enterTheCodeSentToYourPhoneNumber" : "Enter the code sent to your phone number",
+  "verify" : "Verify",
+  "didntReceiveTheCode": "Didn't receive the code?",
+  "resendCode" : "Resend Code",
+
+  "home" : "Home",
+  "treatments" : "Treatments",
+  "appointments" : "Appointments",
+  "about" : "About",
+
+  "hi": "Hi",
+  "welcome": "Welcome",
+  "notifications" : "Notifications",
+  "justNow" : "just now",
+  "oneMinuteAgo" : "1 minute ago",
+  "minutesAgo" : "minutes ago",
+  "oneHourAgo" : "1 hour ago",
+  "hoursAgo" : "hours ago",
+
+  "noNotificationsFound": "No notifications found",
+  "upcomingAppointments" : "Upcoming Appointments",
+
+  "upcoming" : "upcoming",
+
+  "lastUpdate" : "LAST UPDATE",
+
+  "done" : "Done",
+
+  "upcomingReminders": "Upcoming Reminders",
+  "appointmentTomorrow" : "Your Next Appointment is Tomorrow",
+  "nextAppointmentDate" : "Next Appointment Date: ",
+  "updates" : "Updates",
+  "ourServices" : "Our Services",
+  "reminders" : "Reminders",
+
+  "tipsSubTitle" : "Your Tips",
+
+  "patientInformation" : "Patient Information",
+  "name" : "Name",
+
+  "bookAppointment": "Book Appointment",
+  "myHistory": "My History",
+
+  "tips": "Tips",
+  "noTipsFound": "No tips found",
+
+  "myAppointments" : "My Appointments",
+  "past" : "Past",
+  "noPastAppointments" : "No past appointments",
+  "noUpcomingAppointments" : "No upcoming appointments",
+  "noAppointmentsFound" : "No appointments found",
+  "myProfile" : "My Profile",
+  "changeLanguage" : "Change Language to Arabic",
+  "logout" : "Logout",
+
+  "editProfile" : "Edit Profile",
+  "email" : "Email",
+  "birthdate" : "Birthdate",
+  "gender" : "Gender",
+  "yearsOld" : "years old",
+  "pleaseEnterYourEmail" : "Please enter your email",
+  "pleaseEnterYourBirthdate" : "Please enter your birthdate",
+  "pleaseEnterYourGender" : "Please enter your gender",
+  "selectGender" : "Select Gender",
+  "female" : "Female",
+  "male" : "Male",
+  "noUpdate" : "NO UPDATE",
+  "save" : "Save",
+
+  "noData" : "No Results"
+}
